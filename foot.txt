@@ -1,1 +1,4 @@
 foo next3 
+bar
+123
+some text
